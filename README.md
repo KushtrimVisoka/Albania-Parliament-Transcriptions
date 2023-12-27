@@ -31,10 +31,6 @@ dataset = load_dataset('Kushtrim/Albania-Parliament-Transcriptions')
 
 ```
 
-# License
-
-The dataset is licensed under the Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
-
 # Citation
 
 If you use this dataset in your research, please consider citing this repository.
